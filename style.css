@@ -1,0 +1,22 @@
+body { overflow: hidden; background: url('../Click of jQuery/img/bckg.jpg') center/cover no-repeat; }
+#cont { display: flex; }
+.small img {
+	height: 100px;
+	width: 150px;
+	margin: 10px 20px;
+	display: block;
+	border: 5px groove grey;
+	box-shadow: 5px 5px 5px olive;
+}
+.large img {
+	height: 580px;
+	width: 800px;
+	margin: 10px 0 0 100px;
+	border: 5px ridge grey;
+	box-shadow: 5px 5px 5px olive;
+}
+.line {
+	font-size: 28em;
+	margin-left: 40px;
+	color: yellow;
+}
